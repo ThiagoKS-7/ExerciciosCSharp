@@ -1,0 +1,15 @@
+C:\ExerciciosCSharp\3-CastsDeVariaveis\bin\Debug\net6.0\3-CastsDeVariaveis.exe
+C:\ExerciciosCSharp\3-CastsDeVariaveis\bin\Debug\net6.0\3-CastsDeVariaveis.deps.json
+C:\ExerciciosCSharp\3-CastsDeVariaveis\bin\Debug\net6.0\3-CastsDeVariaveis.runtimeconfig.json
+C:\ExerciciosCSharp\3-CastsDeVariaveis\bin\Debug\net6.0\3-CastsDeVariaveis.dll
+C:\ExerciciosCSharp\3-CastsDeVariaveis\bin\Debug\net6.0\3-CastsDeVariaveis.pdb
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.AssemblyInfoInputs.cache
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.AssemblyInfo.cs
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.dll
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\refint\3-CastsDeVariaveis.dll
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.pdb
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\3-CastsDeVariaveis.genruntimeconfig.cache
+C:\ExerciciosCSharp\3-CastsDeVariaveis\obj\Debug\net6.0\ref\3-CastsDeVariaveis.dll

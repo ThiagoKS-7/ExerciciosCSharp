@@ -1,0 +1,15 @@
+C:\ExerciciosCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.exe
+C:\ExerciciosCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.deps.json
+C:\ExerciciosCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.runtimeconfig.json
+C:\ExerciciosCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.dll
+C:\ExerciciosCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.dll
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\refint\2-CriandoVariaveis.dll
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.genruntimeconfig.cache
+C:\ExerciciosCSharp\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CriandoVariaveis.dll
