@@ -1,0 +1,15 @@
+C:\ExerciciosCSharp\5-Condicionais\bin\Debug\net6.0\5-Condicionais.exe
+C:\ExerciciosCSharp\5-Condicionais\bin\Debug\net6.0\5-Condicionais.deps.json
+C:\ExerciciosCSharp\5-Condicionais\bin\Debug\net6.0\5-Condicionais.runtimeconfig.json
+C:\ExerciciosCSharp\5-Condicionais\bin\Debug\net6.0\5-Condicionais.dll
+C:\ExerciciosCSharp\5-Condicionais\bin\Debug\net6.0\5-Condicionais.pdb
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.AssemblyInfoInputs.cache
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.AssemblyInfo.cs
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.dll
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\refint\5-Condicionais.dll
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.pdb
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\5-Condicionais.genruntimeconfig.cache
+C:\ExerciciosCSharp\5-Condicionais\obj\Debug\net6.0\ref\5-Condicionais.dll
