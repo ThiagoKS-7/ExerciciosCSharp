@@ -1,0 +1,15 @@
+C:\ExerciciosCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.exe
+C:\ExerciciosCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.deps.json
+C:\ExerciciosCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.runtimeconfig.json
+C:\ExerciciosCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.dll
+C:\ExerciciosCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.pdb
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.AssemblyInfoInputs.cache
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.AssemblyInfo.cs
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.dll
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\refint\1-HelloWorld.dll
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.pdb
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.genruntimeconfig.cache
+C:\ExerciciosCSharp\1-HelloWorld\obj\Debug\net6.0\ref\1-HelloWorld.dll

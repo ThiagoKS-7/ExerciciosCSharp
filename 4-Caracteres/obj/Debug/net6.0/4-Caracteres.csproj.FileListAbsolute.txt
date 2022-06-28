@@ -1,0 +1,15 @@
+C:\ExerciciosCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.exe
+C:\ExerciciosCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.deps.json
+C:\ExerciciosCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.runtimeconfig.json
+C:\ExerciciosCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.dll
+C:\ExerciciosCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.pdb
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.AssemblyInfoInputs.cache
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.AssemblyInfo.cs
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.dll
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\refint\4-Caracteres.dll
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.pdb
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.genruntimeconfig.cache
+C:\ExerciciosCSharp\4-Caracteres\obj\Debug\net6.0\ref\4-Caracteres.dll
