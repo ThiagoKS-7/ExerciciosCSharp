@@ -1,0 +1,15 @@
+C:\ExerciciosCSharp\6-Fatorial\bin\Debug\net6.0\6-Fatorial.exe
+C:\ExerciciosCSharp\6-Fatorial\bin\Debug\net6.0\6-Fatorial.deps.json
+C:\ExerciciosCSharp\6-Fatorial\bin\Debug\net6.0\6-Fatorial.runtimeconfig.json
+C:\ExerciciosCSharp\6-Fatorial\bin\Debug\net6.0\6-Fatorial.dll
+C:\ExerciciosCSharp\6-Fatorial\bin\Debug\net6.0\6-Fatorial.pdb
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.AssemblyInfoInputs.cache
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.AssemblyInfo.cs
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.dll
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\refint\6-Fatorial.dll
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.pdb
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\6-Fatorial.genruntimeconfig.cache
+C:\ExerciciosCSharp\6-Fatorial\obj\Debug\net6.0\ref\6-Fatorial.dll
